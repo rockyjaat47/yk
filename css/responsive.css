@@ -1,0 +1,251 @@
+@media (max-width: 1600px){
+	.app-content {
+    padding-left: 112px;
+}
+}
+
+@media (max-width: 768px){
+	span.detail-text {
+	    word-break: break-all !important;;
+	}
+}
+
+@media (max-width: 767px){
+	.container {
+	    width: auto !important;
+	}
+	.navbar {
+	    margin-bottom: 0 !important;
+	}
+	.logo img {
+	    width: 75%;
+	}
+	
+	.testmonial-bg-slider {
+	    background-color: rgb(0, 0, 0);
+	    padding: 53px 19px 0px 19px;
+	}
+	.top-text h3 {
+	    font-size: 28px;
+	    line-height: 44px;
+	}
+	/*.baner-text {
+	    left: 0;
+	    width: 100%;
+	    padding: 0px 34px;
+	    top: 69px;
+	}*/
+	.baner-text {
+	    left: 0;
+	    width: 100%;
+	    padding: 0px 0px;
+	    top: 69px;
+	}
+	h1#changingword {
+	    color: #f7a000;
+	    font-size: 47px;
+	    line-height: 53px;
+	}
+	.baner-text h1 {
+	    padding-right: 8px;
+	}
+	.baner-text h1 {
+	    font-size: 24px;
+	    line-height: 38px;
+	}
+	.item {
+	    height: 520px;
+	}
+	#carouselFade {
+	    height: 520px !important;
+	}
+	.img-box img {
+	    width: 32%;
+	    object-fit: cover;
+	    padding-bottom: 20px;
+	    padding-right: 0;
+	}
+	.how-it-work h2 {
+	    font-size: 35px;
+	}
+	.pading {
+	    padding: 65px 0px;
+	}
+	.top-text {
+	    padding: 0;
+	}
+	.post-box {
+	    margin-bottom: 25px;
+	}
+	.foter-text img {
+	    width: 60%;
+	}
+	.foter-text {
+	    padding-bottom: 20px;
+	}
+	.testmonial-bg {
+	    padding: 40px 0px;
+	}
+	.new-shop .col-lg-6 {
+	    padding: 0px 15px;
+	}
+	.content-sec {
+	    padding: 0px 0px 0px 0px;
+	}
+	nav.navbar.menu-item.navbar-expand-lg.navbar-light {
+	    text-align: right;
+	}
+	div#navbarSupportedContent {
+	    display: none;
+	}
+	.in {
+	    display: block !important;
+	}
+	.navbar-sec {
+	    position: absolute;
+	    z-index: 999;
+	    background: rgb(0, 0, 0);
+	    right: -16px;
+	    top: 63px;
+	    width: 283px;
+	    text-align: right;
+	    float: right;
+	}
+	.menu-item ul.navbar-nav.mr-auto {
+	    float: unset;
+	}
+	a.nav-link {
+	    text-decoration: unset !important;
+	    text-align: left;
+	}
+	li.nav-item {
+	    padding: 5px 30px;
+	}
+	.img-box {
+	    text-align: center;
+	    padding: 15px 0px;
+	}
+	.counters h2 {
+	    font-size: 35px;
+	    padding-bottom: 25px;
+	    font-weight: 600;
+	}
+	.counter-box {
+	    margin-bottom: 20px;
+	}
+	.shop-img img {
+	    height: auto;
+	}
+	.shop-img {
+	    padding-bottom: 30px;
+	}
+	.content-title {
+	    padding: 0px 0px 0px 0px;
+	}
+	.content-title h2 {
+	    font-size: 40px;
+	    line-height: 1.3em;
+	}
+	section.collapse-area {
+	    padding-top: 0;
+	}
+	.collapse-area h3 {
+	    font-size: 36px;
+	    font-weight: 600;
+	}
+	.panel-default>.panel-heading {
+	    padding: 12px;
+	}
+	.panel-title a {
+	    font-size: 16px;
+	    line-height: 25px;
+	}
+	.panel-body {
+	    font-size: 16px;
+	    line-height: 28px;
+	}
+	.navbar-toggler {
+	    font-size: 2.25rem !important;
+		background-color: white;
+		border-radius: 50px ;
+	}
+	.page-baner {
+	    height: 400px !important;
+	    padding: 0;
+	}
+	.welcome-img {
+	    display: none;
+	}
+	.heading-text h1 {
+	    font-size: 35px;
+	}
+	.home-baner .about-baner {
+	    height: 372px !important;
+	    display: block;
+	    padding-top: 78px;
+	}
+	.buttons {
+	    bottom: 20px;
+	}
+	.buttons a {
+	    font-size: 16px;
+	    width: 152px;
+	}
+	.app-content {
+	    padding-left: 0;
+	    padding-top: 20px;
+	    padding-bottom: 32px;
+	}
+	section.faq-sec {
+	    padding-top: 70px;
+	}
+	.new-shop-text {
+	    font-size: 28px;
+	}
+	.slick-arrow {
+	    display: none !important;
+	}
+	span.detail-text {
+	    word-break: break-all;
+	}
+	.about-baner h2 {
+	    font-size: 30px;
+	}
+	.image-group {
+	    display: none;
+	}
+	.app-content img {
+	    padding-top: 20px;
+	    height: 68px;
+	    width: 44%;
+	    object-fit: contain;
+	}
+	.form-box {
+	    padding: 28px 15px 42px;
+	}
+	.shop-sec {
+	    padding: 15px;
+	}
+	h1.shop-heading {
+	    font-size: 35px;
+	}
+	.click-btn {
+	    margin-bottom: 30px;
+	}
+	.shop-sec .row {
+	    flex-direction: column-reverse;
+	}
+	.cup-img img {
+	    position: absolute;
+	    top: -70px;
+	    left: -11px;
+	    width: 127px;
+	}
+	#franchies .page-baner {
+	    height: auto !important;
+	    padding: 70px 0px;
+	}
+	#franchies .page-baner.baner-bg {
+	    padding-top: 70px;
+	}
+}
